@@ -9,4 +9,4 @@
 * bullet1
 * bullet2
 
-[link to GitHube](https://github.com)
+[link to GitHub](https://github.com)
